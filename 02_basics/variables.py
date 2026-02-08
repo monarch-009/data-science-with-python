@@ -2,7 +2,7 @@
 # A variable is like a labeled box where you can store a value
 # You give the box a name and put something inside it
 
-# --- Basic examples ---
+# Basic examples
 age = 17                  # integer (whole number)
 height = 5.6              # float (number with decimal)
 name = "Aditya"           # string (text) — use quotes
